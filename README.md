@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on **ad-hoc data analysis** and **financial analytics** for AtliQ Hardware, a leading manufacturer in the **consumer goods** domain. The goal is to leverage **SQL** to extract meaningful insights, automate reporting, and support data-driven decision-making.
+This project focuses on **financial analytics** for AtliQ Hardware, a leading manufacturer in the **consumer goods** domain. The goal is to leverage **SQL** to extract meaningful insights, automate reporting, and support data-driven decision-making.
 
 ### **Key Objectives**
 - Develop **data-driven insights** to enhance AtliQ Hardware’s decision-making process.
